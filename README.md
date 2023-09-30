@@ -19,3 +19,7 @@ We start by loading the dataset from 'bodyfat.csv' and splitting it into feature
 
 #### 4. Model Comparison
 - We compare the performance of the Lasso and Ridge regression
+
+### Conclusion
+
+This project provides valuable insights into using Lasso and Ridge regression techniques for body fat prediction. The findings suggest that the Ridge regression model yields slightly better accuracy compared to Lasso. For a more detailed code implementation, please refer to the Jupyter Notebook in this repository.
